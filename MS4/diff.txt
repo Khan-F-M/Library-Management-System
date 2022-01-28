@@ -1,0 +1,14 @@
+In line number 23 of your output:
+The output should be:
+Title: Seneca Handbook
+^
+But your output is: 
+Seneca Handbook
+^
+
+Unmatched character details:
+The character in column 1 is supposed to be:
+  [T] ASCII code(84)
+but you printed
+  [S] ASCII code(83)
+
